@@ -152,5 +152,5 @@ This system is designed as a utility framework for developers to extend and inte
 
 ## Maintainers
 
-- **Author:** [ATrnd]
+- **Author:** [[ATrnd](https://github.com/ATrnd/)]
 - **Contact:** [https://t.me/at_rnd]
