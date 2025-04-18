@@ -1,5 +1,7 @@
 # SIP-1: Shape Fragments
 
+![shape_fragments](https://github.com/ATrnd/SIP-1-shape-fragments/blob/main/img/SIP-1-shape-fragments-0.1.jpg)
+
 ### Status: Draft
 
 ## SIP Purpose
