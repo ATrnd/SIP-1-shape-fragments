@@ -129,10 +129,10 @@ These use cases provide implementations for various fragment-based interactions 
 To evaluate the Fragment-Fusion system:
 ```bash
 # Clone the repository
-git clone git@github.com:ATrnd/sip-1-shape-fragments.git
+git clone git@github.com:ATrnd/SIP-1-shape-fragments.git
 
 # Change to project directory
-cd sip-001-fragment-fusion
+cd SIP-1-shape-fragments
 
 # Install Foundry dependencies
 forge install
